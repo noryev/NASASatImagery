@@ -1,4 +1,5 @@
 # NASA EPIC Imagery Downloader
+![epic_1b_20230614012319](https://github.com/noryev/NASASatImagery/assets/30084404/1cc6b7b9-72e2-4a71-85fb-adcf13ef5c1e)
 
 This python script retrieves the most recent Earth Polychromatic Imaging Camera (EPIC) image from the NASA API, available at [https://epic.gsfc.nasa.gov/api/natural](https://epic.gsfc.nasa.gov/api/natural), and saves it to your desktop.
 
