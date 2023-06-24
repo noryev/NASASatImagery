@@ -17,7 +17,7 @@ If Python3 is not installed, please follow the guidelines on the official Python
 
 To use the script, simply open your terminal and run:
 
-\```bash
+\```
 python3 SatImagery.py
 \```
 
